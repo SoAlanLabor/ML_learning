@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ML_learning\\ML_learning\\C\u002B\u002B\\xiriti1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B205DD-E91B-45A2-8838-9B5CEAB36BF7}|xiriti1\\xiriti1.vcxproj|D:\\ML_learning\\ML_learning\\C\u002B\u002B\\xiriti1\\xiriti1\\riti1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8B205DD-E91B-45A2-8838-9B5CEAB36BF7}|xiriti1\\xiriti1.vcxproj|solutionrelative:xiriti1\\riti1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "riti1.cpp",
+              "DocumentMoniker": "D:\\ML_learning\\ML_learning\\C\u002B\u002B\\xiriti1\\xiriti1\\riti1.cpp",
+              "RelativeDocumentMoniker": "xiriti1\\riti1.cpp",
+              "ToolTip": "D:\\ML_learning\\ML_learning\\C\u002B\u002B\\xiriti1\\xiriti1\\riti1.cpp",
+              "RelativeToolTip": "xiriti1\\riti1.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-27T14:56:42.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
